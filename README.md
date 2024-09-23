@@ -20,8 +20,8 @@ Our data for this project primarily revolves around York University’s history.
 
 
 # Technologies/Tools
-Unity: Creating the AR application
-Mapbox: Map/Geolocation services
-Maya: 3D Modelling
-Blender: 3D Modelling
-A-Frame: AR website
+**Unity:** Creating the AR application <br>
+**Mapbox:** Map/Geolocation services <br>
+**Maya:** 3D Modelling <br>
+**Blender:** 3D Modelling <br>
+**A-Frame:** AR website
